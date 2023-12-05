@@ -4,6 +4,8 @@ Pro-bono project for touge's Veyron.
 
 ## Wing breakdown
 
+https://github.com/plus-and-other-arithmetic-operations/Veyron-Wing/assets/88043761/8462f956-982b-4565-bc18-bd450b443fca
+
 The Bugatti Veyron 16.4 is equipped with an adaptive rear wing system that adjusts its behavior based on the vehicle's speed. Here's an explanation of the wing behavior:
 
 ### 0 km/h to 100 km/h:
